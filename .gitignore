@@ -1,0 +1,6 @@
+.idea/
+**/target
+**/resources
+**/test
+/src
+**pom.xml
